@@ -1,6 +1,6 @@
 # shuffling_ball_project
 
-A new Flutter project.
+A Project Of a ball to show different results by pressing shuffle button each time
 
 ## Getting Started
 
